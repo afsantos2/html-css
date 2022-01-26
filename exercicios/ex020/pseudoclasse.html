@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-Classes</title>
+    <style>
+        /* SIMBOLOS EM CSS / SELETORES PERSONALIZADOS
+            # = id
+            . = class
+            : = pseudo-class
+           :: = pseudo-element
+            > = children (elemento filho "que esta dentro de uma tag")
+
+        */
+        div {
+            display: inline-block;
+            background-color: rgb(209, 206, 206);
+            border: 1px solid black;
+            text-align: center;
+            height: 200px;
+            width: 200px;
+        }
+        div:hover {
+            background-color: rgb(150, 150, 148);
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited {
+            color: rgb(151, 87, 87);            
+        }
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+       
+        a::after {
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="01">01</div>
+    <div id="02">02</div>
+    <div id="03">03</div>
+    <h1>Personalizando links</h1>
+    
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efeito degradê com CSS</title>
+    <style>
+        *{ /*configuraçoes globais de css*/
+            height: 100%;
+        }        
+        main {
+            background-image: linear-gradient( to bottom, #3198e2, #6d59c0, #b93590, #e33f5f, #fdd579 );
+            margin: auto;
+            text-align: center;
+            font-size: x-large;
+            color: white;
+            border-radius: 20px;
+            height: 400px;            
+        }
+        .text-gradient {
+            background: linear-gradient(90deg, #ea3363, #ff0043);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+        input {
+            height: auto;
+            width: max-content;
+        }
+        
+    </style>
+</head>
+<body>
+    <main>
+         <p>Texto no Centro</p>
+    </main>   
+    
+</body>
+</html>
