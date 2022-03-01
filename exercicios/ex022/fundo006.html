@@ -4,15 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Testando background-size</title>
+    <title>Imagem de fundo fixa</title>
     <style>
         body{
             height: 98vh;
-            background-color: black;
-            background-image: url('imagens/wallpaper002.jpg');
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover; /*A imagem "cobre" o container inteiro, tanto em altura como em largura.*/
+            /* Shorthand - background; color > image > position/size > repeat > attachment*/
+            background: black url('imagens/wallpaper002.jpg') center/cover no-repeat fixed;
+            
+
         }
 
         main {
@@ -20,7 +19,7 @@
             width: 400px;
             padding: 10px;
             margin: auto;
-            border: 1px solid #e9d775;
+            border: 1px solid #000000;
             border-radius: 5px;
         }
     </style>
@@ -29,7 +28,7 @@
     <main>
         <h1>Teste de imagem de fundo</h1>
         <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt eos ratione sit facere magnam, dolor saepe nobis in adipisci, totam aliquam vitae provident maxime porro beatae explicabo molestiae, dignissimos placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto commodi rerum, minima laboriosam unde repellat. Nam veniam voluptatem animi nulla! Eos rem id maxime debitis accusantium? Exercitationem quae alias voluptatibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque harum delectus itaque voluptas labore nobis? Placeat ab at iure perferendis debitis repellat pariatur libero possimus atque, harum sunt maiores in.
         </p>
     </main>
 </body>
