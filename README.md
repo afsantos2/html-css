@@ -1,5 +1,9 @@
 # html-css
- Exercícios de HTML5 e CSS3
+### Exercícios de HTML5 e CSS3, feitos durante o "curso em video" com o professor Gustavo Guanabara.
+
+###  Clique nos links abaixo abrir os exercícios
+
+<br>
  
 01 - <a href="https://afsantos2.github.io/html-css/exercicios/ex001/index.html" target="_blank">Olá Mundo!</a>
 
@@ -29,7 +33,11 @@
 
 15 - <a href="https://afsantos2.github.io/html-css/exercicios/ex015/index.html" target="_blank">Estilos externos</a>
 
-16 - <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">Cores</a>
+16 - Testando possibilidades com cores
+
+- <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">16.1 - Inserindo transparência</a>
+- <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor02.html" target="_blank">16.2 - Efeito degradê</a>
+- <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor03.html" target="_blank">16.3 - Cores de fundo, texto e sombras</a>
 
 17 - <a href="https://afsantos2.github.io/html-css/exercicios/ex017/index.html" target="_blank">Fontes e alinhamentos</a>
 
