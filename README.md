@@ -29,7 +29,7 @@
 
 15 - <a href="https://afsantos2.github.io/html-css/exercicios/ex015/index.html" target="_blank">Estilos externos</a>
 
-16 - <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor001.html" target="_blank">Cores</a>
+16 - <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">Cores</a>
 
 17 - <a href="https://afsantos2.github.io/html-css/exercicios/ex017/index.html" target="_blank">Fontes e alinhamentos</a>
 
