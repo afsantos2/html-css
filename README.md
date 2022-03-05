@@ -1,7 +1,7 @@
 # html-css
  Exercícios de HTML5 e CSS3
  
-01 - <a href="https://afsantos2.github.io/html-css/exercicios/ex001/index.html" target="_blank">Olá Mundo</a>
+01 - <a href="https://afsantos2.github.io/html-css/exercicios/ex001/index.html" target="_blank">Olá Mundo!</a>
 
 02 - <a href="https://afsantos2.github.io/html-css/exercicios/ex002/index.html" target="_blank">Parágrafos e símbolos</a> 
 
