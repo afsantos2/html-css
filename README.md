@@ -41,4 +41,19 @@
 
  Exercício 21 - <a href="https://afsantos2.github.io/html-css/exercicios/ex021/index.html" target="_blank">Modelos de caixas</a>
 
- Exercício 22 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/index.html" target="_blank">Imagens de fundo</a>
+ Exercício 22 - Imagens de fundo
+<details> 
+    <summary>
+    <b>Expandir</b>
+    </summary>
+
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">Exercício 22.1</a>
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">Exercício 22.2</a>
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">Exercício 22.3</a>
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">Exercício 22.4</a>
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">Exercício 22.5</a>
+> - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">Exercício 22.6</a>
+
+</details>
+     
+ 
