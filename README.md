@@ -49,5 +49,5 @@
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">Exercício 22.4</a>
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">Exercício 22.5</a>
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">Exercício 22.6</a>
-
+- <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">Exercício 22.7</a>
 </details>
