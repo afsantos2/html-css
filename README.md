@@ -29,7 +29,7 @@
 
 15 - <a href="https://afsantos2.github.io/html-css/exercicios/ex015/index.html" target="_blank">Estilos externos</a>
 
-16 - <a href="https://afsantos2.github.io/html-css/exercicios/ex016/index.html" target="_blank">Cores</a>
+16 - <a href="https://afsantos2.github.io/html-css/exercicios/ex016/cor001.html" target="_blank">Cores</a>
 
 17 - <a href="https://afsantos2.github.io/html-css/exercicios/ex017/index.html" target="_blank">Fontes e alinhamentos</a>
 
@@ -41,7 +41,7 @@
 
 21 - <a href="https://afsantos2.github.io/html-css/exercicios/ex021/index.html" target="_blank">Modelos de caixas</a>
 
-22 - Imagens de fundo
+22 - Inserindo imagens de fundo
 
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">Exercício 22.1</a>
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">Exercício 22.2</a>
