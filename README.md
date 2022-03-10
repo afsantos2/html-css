@@ -1,5 +1,9 @@
 # html-css
-### Exercícios de HTML5 e CSS3, feitos durante o "curso em video" com o professor Gustavo Guanabara.
+
+### Exercícios e desafios de HTML5 e CSS3, feitos durante o "curso em video" com o professor Gustavo Guanabara.
+<br>
+<details>
+ <summary>Exercícios</summary>
 
 <br>
 
@@ -30,8 +34,6 @@
 14 - <a href="https://afsantos2.github.io/html-css/exercicios/ex014/index.html" target="_blank">Estilos locais-internos</a>
 
 15 - <a href="https://afsantos2.github.io/html-css/exercicios/ex015/index.html" target="_blank">Estilos externos</a>
-
-</details>
 
 <br>
 
@@ -65,4 +67,12 @@
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">22.5 - Centralização da imagem de fundo</a>
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">22.6 - Background attachment fixed!</a>
 - <a href="https://afsantos2.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">22.7 - Position; absolute, relative e transform</a>
+</details>
+
+<details>
+<summary>Desafios</summary>
+<br>
+
+01 - Testando <a href="https://afsantos2.github.io/html-css/desafios/d012/index.html">background-attachment</a>
+
 </details>
